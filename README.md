@@ -7,6 +7,7 @@ author: Loïc Duffar https://github.com/loicduffar
 This python notebook uses data from the wordclim web site to plot future climatologies maps on a given area. The outpus are stored as image files (png) and raster files (geotif).
 
 How to PROCEED ?
+
 The data files must be divided into different sub-folders:
 
 - a folder containing the 12 tif files with historical monthly interannual averages (1 file per month of the year)
@@ -28,6 +29,7 @@ author: Loïc Duffar https://github.com/loicduffar
 This python notebook uses data from the wordclim web site to compute the evolution of future precipitation on a given watershed (average of the pixels inside the polygon). The ouputs are stored in an excel file.
 
 How to PROCEED ?
+
 The data files must be divided into different sub-folders:
 
 - a folder containing the 12 tif files of historical monthly interannual averages (1 file per month of the year)
