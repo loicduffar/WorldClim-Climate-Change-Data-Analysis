@@ -1,4 +1,4 @@
-# WorldClim-Climate-Change-Data
+# WorldClim - Climate Change Data Analysis
 Historical &amp; future climatologies (1970-2100) - Maps plotting and time series extraction
 
 ## MAPS
