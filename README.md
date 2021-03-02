@@ -2,8 +2,10 @@
 Historical &amp; future climatologies (1970-2100) - Maps plotting and time series extraction
 
 ## MAPS
-Data: https://www.worldclim.org/data/index.html
-author: Loïc Duffar https://github.com/loicduffar
+
+- Data: https://www.worldclim.org/data/index.html
+- author: Loïc Duffar https://github.com/loicduffar
+
 This python notebook uses data from the wordclim web site to plot future climatologies maps on a given area. The outpus are stored as image files (png) and raster files (geotif).
 
 How to PROCEED ?
@@ -22,9 +24,11 @@ Run the first script, then one of the following ones:
 4) Plot the elevation map
 
 ### GRAPHS
+
 4 SSP scenarios and 9 Global Climatic Models
-Data: https://www.worldclim.org/data/index.html
-author: Loïc Duffar https://github.com/loicduffar
+
+- Data: https://www.worldclim.org/data/index.html
+- author: Loïc Duffar https://github.com/loicduffar
 
 This python notebook uses data from the wordclim web site to compute the evolution of future precipitation on a given watershed (average of the pixels inside the polygon). The ouputs are stored in an excel file.
 
