@@ -1,5 +1,5 @@
 # WorldClim - Climate Change Data Analysis
-Historical &amp; future Precipitaiton/Temperature Climatologies (1970-2100) - Maps plotting and time series extraction
+Historical &amp; future Precipitation/Temperature Climatologies (1970-2100) - Maps plotting and time series extraction
 
 ## MAPS
 
