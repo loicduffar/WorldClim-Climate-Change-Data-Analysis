@@ -12,9 +12,9 @@ How to PROCEED ?
 
 The data files must be divided into different sub-folders:
 
-- a folder containing the 12 tif files with historical monthly interannual averages (1 file per month of the year)
+- a folder containing the 12 tif files with historical monthly climatologies (1 file per month of the year)
 - a folder with sub-folders for the various future periods (e.g. 1921-1940, 1961-1981, 1981-2100). Each subfolder contains 4 tif files for each model (and each file contains 12 bands for the the different months).
-- Optionnaly, the global DEM file can be downloaded from WorldClim to plot the elevation map of the area
+- Optionnaly, the global DEM file can be downloaded from WorldClim to plot the elevation map on the area
 
 Run the first script, then one of the following ones:
 
@@ -41,8 +41,8 @@ The data files must be divided into different sub-folders:
 
 Then run cells in order:
 
-1) Historical interannual monthly mean 1970-2000
-2) Future precipitations
+1) Historical monthly climatologies 1970-2000
+2) Future climatologies
 3) Multi index by Model, Scenario and Period
 4) Concatenate historical and future precipitation in a single dataframe
 5) Plot annual evolution of annual precipitation in future, according to all SSP scenarios and all GCM
