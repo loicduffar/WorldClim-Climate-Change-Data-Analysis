@@ -51,4 +51,4 @@ Then run cells in order:
 8) Plot montly projections (all SSP scenarios and all GCMs)
 9) Store all outputs in an excel file
 
-<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20Annual%20mean%20map%20-%20Historical.png" width="900%"></img>
+<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20Annual%20mean%20map%20-%20Historical.png" width="80%"></img>
