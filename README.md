@@ -51,9 +51,9 @@ Then run cells in order:
 8) Plot montly projections (all SSP scenarios and all GCMs)
 9) Store all outputs in an excel file
 
-<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20Annual%20mean%20map%20-%20Historical.png" width="50%"></img>
-<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WordlClim%20-%20Annual%20Precipitation%20Anomaly%20-%202041-2060_ssp585_CanESM5.png" width="50%"></img>
-<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20future%20by%20year.png" width="50%"></img>
-<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20future%20by%20month.png" width="50%"></img>
-<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20future%20by%20scenario.png" width="50%"></img>
+<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20Annual%20mean%20map%20-%20Historical.png" width="40%"></img>
+<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WordlClim%20-%20Annual%20Precipitation%20Anomaly%20-%202041-2060_ssp585_CanESM5.png" width="40%"></img>
+<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20future%20by%20year.png" width="40%"></img>
+<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20future%20by%20month.png" width="40%"></img>
+<img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20future%20by%20scenario.png" width="40%"></img>
 <img src="https://github.com/loicduffar/WorldClim-Climate-Change-Data-Analysis/blob/main/out/WorldClim%20-%20Elevation%20Map.png" width="50%"></img>
